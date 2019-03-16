@@ -1,2 +1,9 @@
-# Study-Buddy
-a tool to make studying more bearable
+# Study Buddy
+##### by Noah Herrin
+
+
+## Goals
+- [] tasks
+- [] notes
+- [] links
+- [] games
