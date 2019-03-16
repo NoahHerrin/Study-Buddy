@@ -3,7 +3,7 @@
 
 
 ## Goals
-- [] tasks
-- [] notes
-- [] links
-- [] games
+- [ ] tasks
+- [ ] notes
+- [ ] links
+- [ ] games
